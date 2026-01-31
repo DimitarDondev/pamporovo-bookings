@@ -1,0 +1,80 @@
+{
+  "the-view": {
+    "id": "the-view",
+    "name": {
+      "bg": "The View",
+      "en": "The View",
+      "de": "The View",
+      "el": "The View",
+      "tr": "The View"
+    },
+    "slug": "the-view",
+    "beds": 2,
+    "amenities": [
+      "wifi",
+      "kitchen",
+      "parking"
+    ],
+    "images": [
+      "/images/the-view-1.jpg"
+    ],
+    "description": {
+      "bg": "Светло студио с гледка към планината.",
+      "en": "Bright studio with mountain view.",
+      "de": "Helles Studio mit Bergblick.",
+      "el": "Φωτεινό στούντιο με θέα στο βουνό.",
+      "tr": "Dağ manzaralı aydınlık stüdyo."
+    }
+  },
+  "the-glade": {
+    "id": "the-glade",
+    "name": {
+      "bg": "The Glade",
+      "en": "The Glade",
+      "de": "The Glade",
+      "el": "The Glade",
+      "tr": "The Glade"
+    },
+    "slug": "the-glade",
+    "beds": 3,
+    "amenities": [
+      "wifi",
+      "balcony"
+    ],
+    "images": [
+      "/images/the-glade-1.jpg"
+    ],
+    "description": {
+      "bg": "Уютно студио близо до гора.",
+      "en": "Cozy studio near the woods.",
+      "de": "Gemütliches Studio nahe dem Wald.",
+      "el": "Άνετο στούντιο κοντά στο δάσος.",
+      "tr": "Ormana yakın samimi stüdyo."
+    }
+  },
+  "divena": {
+    "id": "divena",
+    "name": {
+      "bg": "Divena",
+      "en": "Divena",
+      "de": "Divena",
+      "el": "Divena",
+      "tr": "Divena"
+    },
+    "slug": "divena",
+    "beds": 2,
+    "amenities": [
+      "wifi"
+    ],
+    "images": [
+      "/images/divena-1.jpg"
+    ],
+    "description": {
+      "bg": "Модерно студио за двама.",
+      "en": "Modern studio for two.",
+      "de": "Modernes Studio für zwei.",
+      "el": "Σύγχρονο στούντιο για δύο.",
+      "tr": "İki kişilik modern stüdyo."
+    }
+  }
+}
