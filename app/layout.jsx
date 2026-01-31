@@ -1,3 +1,4 @@
+
 import '../styles/globals.css'
 export const metadata = { title: 'Pamporovo Bookings' }
 export default function RootLayout({ children }){

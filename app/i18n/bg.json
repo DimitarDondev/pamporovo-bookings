@@ -2,7 +2,11 @@
   "title": "Pamporovo Bookings",
   "studios": "Студиа",
   "contact": "Контакт",
+  "gallery": "Галерия",
   "beds": "легла",
   "amenities": "удобства",
-  "view": "Виж"
+  "view": "Виж",
+  "map": "Карта",
+  "book": "Запитване",
+  "language": "Език"
 }

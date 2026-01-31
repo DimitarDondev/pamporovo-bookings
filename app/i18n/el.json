@@ -2,7 +2,11 @@
   "title": "Pamporovo Bookings",
   "studios": "Στούντιο",
   "contact": "Επικοινωνία",
+  "gallery": "Γκαλερί",
   "beds": "κρεβάτια",
   "amenities": "παροχές",
-  "view": "Προβολή"
+  "view": "Προβολή",
+  "map": "Χάρτης",
+  "book": "Ερώτηση",
+  "language": "Γλώσσα"
 }

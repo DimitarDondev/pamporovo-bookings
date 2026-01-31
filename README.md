@@ -1,17 +1,3 @@
-# Pamporovo Bookings (Clean Stages 1–3)
+# Pamporovo Bookings — Stage 4
 
-- Next.js 15 App Router
-- Locales: BG/EN/DE/EL/TR
-- Studios list/detail from data/studios.json
-- Netlify Next.js Runtime
-
-## Scripts
-- npm run dev
-- npm run build
-- npm start
-
-## Netlify
-Build command: npm run build
-Publish: (leave empty)
-Plugin: @netlify/plugin-nextjs
-Node: 20
+Added: header + language selector, global nav, studio galleries, site gallery, embedded Google Maps (iframe), responsive layout.

@@ -2,7 +2,11 @@
   "title": "Pamporovo Bookings",
   "studios": "Stüdyolar",
   "contact": "İletişim",
+  "gallery": "Galeri",
   "beds": "yatak",
   "amenities": "olanaklar",
-  "view": "Görüntüle"
+  "view": "Görüntüle",
+  "map": "Harita",
+  "book": "Talep",
+  "language": "Dil"
 }

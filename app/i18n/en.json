@@ -2,7 +2,11 @@
   "title": "Pamporovo Bookings",
   "studios": "Studios",
   "contact": "Contact",
+  "gallery": "Gallery",
   "beds": "beds",
   "amenities": "amenities",
-  "view": "View"
+  "view": "View",
+  "map": "Map",
+  "book": "Inquiry",
+  "language": "Language"
 }

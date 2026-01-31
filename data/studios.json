@@ -1,6 +1,7 @@
 {
   "the-view": {
     "id": "the-view",
+    "slug": "the-view",
     "name": {
       "bg": "The View",
       "en": "The View",
@@ -8,7 +9,6 @@
       "el": "The View",
       "tr": "The View"
     },
-    "slug": "the-view",
     "beds": 2,
     "amenities": [
       "wifi",
@@ -16,8 +16,14 @@
       "parking"
     ],
     "images": [
-      "/images/the-view-1.jpg"
+      "/images/the-view/1.jpg",
+      "/images/the-view/2.jpg",
+      "/images/the-view/3.jpg"
     ],
+    "location": {
+      "lat": 41.6509,
+      "lng": 24.6966
+    },
     "description": {
       "bg": "Светло студио с гледка към планината.",
       "en": "Bright studio with mountain view.",
@@ -28,6 +34,7 @@
   },
   "the-glade": {
     "id": "the-glade",
+    "slug": "the-glade",
     "name": {
       "bg": "The Glade",
       "en": "The Glade",
@@ -35,15 +42,19 @@
       "el": "The Glade",
       "tr": "The Glade"
     },
-    "slug": "the-glade",
     "beds": 3,
     "amenities": [
       "wifi",
       "balcony"
     ],
     "images": [
-      "/images/the-glade-1.jpg"
+      "/images/the-glade/1.jpg",
+      "/images/the-glade/2.jpg"
     ],
+    "location": {
+      "lat": 41.6505,
+      "lng": 24.694
+    },
     "description": {
       "bg": "Уютно студио близо до гора.",
       "en": "Cozy studio near the woods.",
@@ -54,6 +65,7 @@
   },
   "divena": {
     "id": "divena",
+    "slug": "divena",
     "name": {
       "bg": "Divena",
       "en": "Divena",
@@ -61,14 +73,18 @@
       "el": "Divena",
       "tr": "Divena"
     },
-    "slug": "divena",
     "beds": 2,
     "amenities": [
       "wifi"
     ],
     "images": [
-      "/images/divena-1.jpg"
+      "/images/divena/1.jpg",
+      "/images/divena/2.jpg"
     ],
+    "location": {
+      "lat": 41.648,
+      "lng": 24.699
+    },
     "description": {
       "bg": "Модерно студио за двама.",
       "en": "Modern studio for two.",
