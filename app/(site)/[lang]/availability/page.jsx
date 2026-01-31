@@ -4,8 +4,7 @@ import { useEffect, useMemo, useState } from 'react'
 
 function toISO(d){ return d.toISOString().slice(0,10) }
 
-export default function Availability({ params }){
-  const { lang } = params
+export default function Availability(){
   const [data,setData] = useState({})
   const [studio,setStudio] = useState('the-view')
   const [sel,setSel] = useState([])
