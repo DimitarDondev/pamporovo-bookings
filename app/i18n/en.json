@@ -3,10 +3,16 @@
   "studios": "Studios",
   "contact": "Contact",
   "gallery": "Gallery",
+  "availability": "Availability",
+  "select_dates": "Select dates",
+  "book": "Send inquiry",
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "send": "Send",
+  "language": "Language",
   "beds": "beds",
   "amenities": "amenities",
   "view": "View",
-  "map": "Map",
-  "book": "Inquiry",
-  "language": "Language"
+  "map": "Map"
 }

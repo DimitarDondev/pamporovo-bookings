@@ -2,6 +2,7 @@
 import fs from 'fs'
 import path from 'path'
 import StudioCard from '@/components/StudioCard'
+export const dynamic = 'force-static'
 export default function Studios({ params }){
   const { lang } = params
   const dict = JSON.parse(fs.readFileSync(path.join(process.cwd(),'app','i18n',`${lang}.json`),'utf-8'))

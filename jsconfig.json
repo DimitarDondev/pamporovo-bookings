@@ -10,6 +10,7 @@
   "include": [
     "app",
     "components",
-    "data"
+    "data",
+    "netlify/functions"
   ]
 }

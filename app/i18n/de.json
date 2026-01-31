@@ -3,10 +3,16 @@
   "studios": "Studios",
   "contact": "Kontakt",
   "gallery": "Galerie",
+  "availability": "Verfügbarkeit",
+  "select_dates": "Daten wählen",
+  "book": "Anfrage senden",
+  "name": "Name",
+  "email": "E-Mail",
+  "message": "Nachricht",
+  "send": "Senden",
+  "language": "Sprache",
   "beds": "Betten",
   "amenities": "Ausstattung",
   "view": "Ansehen",
-  "map": "Karte",
-  "book": "Anfrage",
-  "language": "Sprache"
+  "map": "Karte"
 }

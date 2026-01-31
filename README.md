@@ -1,3 +1,3 @@
-# Pamporovo Bookings — Stage 4
+# Pamporovo Bookings — Stage 5
 
-Added: header + language selector, global nav, studio galleries, site gallery, embedded Google Maps (iframe), responsive layout.
+Adds: availability calendar, Netlify Forms, serverless inquiry function, basic SEO (robots + sitemap).

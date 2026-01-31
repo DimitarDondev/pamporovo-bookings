@@ -1,12 +1,11 @@
 *{box-sizing:border-box}
 body{font-family:System-ui,Segoe UI,Roboto,Ubuntu,sans-serif;margin:0}
-.header{border-bottom:1px solid #e5e7eb}
-.nav{display:flex;gap:12px;align-items:center}
 .container{max-width:1100px;margin:0 auto;padding:1rem}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
 .card{border:1px solid #e5e7eb;border-radius:12px;padding:12px;background:#fff}
 .gallery{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px}
-img{max-width:100%;height:auto;display:block;border-radius:8px}
+.header{border-bottom:1px solid #e5e7eb}
 .footer{border-top:1px solid #e5e7eb;margin-top:24px;padding:16px;color:#666;font-size:14px}
-select,button,input,textarea{font:inherit;padding:.5rem;border:1px solid #cbd5e1;border-radius:8px}
+input,button,textarea,select{font:inherit;padding:.5rem;border:1px solid #cbd5e1;border-radius:8px}
 button{cursor:pointer}
+.badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#eef2ff;color:#3730a3;font-size:12px;margin-left:8px}

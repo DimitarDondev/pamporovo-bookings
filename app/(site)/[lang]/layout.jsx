@@ -2,18 +2,21 @@
 import fs from 'fs'
 import path from 'path'
 import Header from '../components/Header'
-
+export const metadata = {
+  metadataBase: new URL('https://pamporovobookings.com'),
+}
 export default function LangLayout({ children, params }){
   const lang = params.lang
-  const dictPath = path.join(process.cwd(),'app','i18n',`${lang}.json`)
-  const dict = JSON.parse(fs.readFileSync(dictPath,'utf-8'))
+  const dict = JSON.parse(fs.readFileSync(path.join(process.cwd(),'app','i18n',`${lang}.json`),'utf-8'))
   return (
-    <>
-      <Header lang={lang} dict={dict} />
-      <div className='container'>
-        {children}
-        <footer className='footer'>© Pamporovo Bookings</footer>
-      </div>
-    </>
+    <html lang={lang}>
+      <body>
+        <Header lang={lang} dict={dict} />
+        <main className='container'>
+          {children}
+          <footer className='footer'>© Pamporovo Bookings</footer>
+        </main>
+      </body>
+    </html>
   )
 }

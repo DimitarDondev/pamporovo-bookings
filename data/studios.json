@@ -16,9 +16,7 @@
       "parking"
     ],
     "images": [
-      "/images/the-view/1.jpg",
-      "/images/the-view/2.jpg",
-      "/images/the-view/3.jpg"
+      "/images/the-view-1.jpg"
     ],
     "location": {
       "lat": 41.6509,
@@ -48,8 +46,7 @@
       "balcony"
     ],
     "images": [
-      "/images/the-glade/1.jpg",
-      "/images/the-glade/2.jpg"
+      "/images/the-glade-1.jpg"
     ],
     "location": {
       "lat": 41.6505,
@@ -78,8 +75,7 @@
       "wifi"
     ],
     "images": [
-      "/images/divena/1.jpg",
-      "/images/divena/2.jpg"
+      "/images/divena-1.jpg"
     ],
     "location": {
       "lat": 41.648,
@@ -89,7 +85,7 @@
       "bg": "Модерно студио за двама.",
       "en": "Modern studio for two.",
       "de": "Modernes Studio für zwei.",
-      "el": "Σύγχρονο στούντιο για δύο.",
+      "el": "Σύγχρονο στούνтио за двама.",
       "tr": "İki kişilik modern stüdyo."
     }
   }

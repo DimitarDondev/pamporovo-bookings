@@ -3,10 +3,16 @@
   "studios": "Stüdyolar",
   "contact": "İletişim",
   "gallery": "Galeri",
+  "availability": "Müsaitlik",
+  "select_dates": "Tarih seçin",
+  "book": "Talep gönder",
+  "name": "Ad",
+  "email": "E-posta",
+  "message": "Mesaj",
+  "send": "Gönder",
+  "language": "Dil",
   "beds": "yatak",
   "amenities": "olanaklar",
   "view": "Görüntüle",
-  "map": "Harita",
-  "book": "Talep",
-  "language": "Dil"
+  "map": "Harita"
 }
